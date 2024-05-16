@@ -35,6 +35,10 @@ label {
 option{
     background-color: darksalmon;
 }
+/*This is a stytle for the submit button*/
+.buttonStyle{
+    background-color: indianred;
+}
 
 input[type="text"],
 select {
