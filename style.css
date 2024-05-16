@@ -26,11 +26,12 @@ label {
     display: block;
     margin-bottom: 5px;
 }
-/*This is a style for List Box*/
-option{
-    background-color: darksalmon;
-}
 
+/*This is a style for Input Text*/
+.patientName{
+    text-align: right;
+    color: black;
+}
 input[type="text"],
 select {
     width: 100%;
